@@ -6,7 +6,7 @@ This project provide area-wide analysis for school budgeting as well as students
 2. Generating **html report using ydata_profiling** to explore the data stattistically and numerically based on sample dataset (6k records). 
 
 
-#####  Analysis breakdown: 
+####  Analysis breakdown: 
 1. Local Govenrment Area (LGA) Summary (see key metrics below):
     * Total number of unique schools
     * Total students
