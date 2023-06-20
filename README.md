@@ -3,7 +3,7 @@
 This project provide area-wide analysis for school budgeting as well as students scoring (reading & math) for 15 schools. The analysis aggregates the data and showcase obvious trends in school performance.
 #### Key Analysis Features
 1. Merging two datasets
-2. Generating **html report using ydata_profiling** to explore the data stattistically and numerically based on sample dataset (6k records) --> [School Analysis report](https://gaganpreetkaurkalsi.netlify.app “School Anlysis Sample report”)
+2. Generating **html report using ydata_profiling** to explore the data stattistically and numerically based on sample dataset (6k records) --> [School Analysis report](file:///Users/galbeeir/Desktop/git/pandas-challenge/PyCitySchools/Starter_Code/SchoolAnalysis_Hreport.html “School Anlysis Sample report”)
 
 
 #####  Analysis breakdown: 
