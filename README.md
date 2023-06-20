@@ -4,6 +4,7 @@ This project provide area-wide analysis for school budgeting as well as students
 #### Key Analysis Features
 1. Merging two datasets
 2. Generating **html report using ydata_profiling** to explore the data stattistically and numerically based on sample dataset (6k records). 
+3. Visualizing the results -> Heat maps, line, bar, and barh charts
 
 
 ####  Analysis breakdown: 
